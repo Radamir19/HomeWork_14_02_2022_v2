@@ -15,7 +15,7 @@ public class HomeWork {
         Box<Orange> or1 = new Box<>();
         Box<Apple> ap = new Box<>();
         Box<Apple> ap1 = new Box<>();//
-        System.out.println("Task3");
+        System.out.println("Task3");//
         System.out.println("'g' - addFruit: ");
         or.addFruit(new Orange(),10);
         or1.addFruit(new Orange(),12);
